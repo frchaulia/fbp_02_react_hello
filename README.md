@@ -58,19 +58,19 @@ import Footer from '@/components/Footer'
 
 > "Penjelasan struktur project pada masing-masing file dan folder."
 
-**node_modules :** Berisi semua dependency/paket npm yang diinstal untuk proyek.
-**public :** Folder untuk menyimpan aset statis seperti gambar yang akan diakses secara publik.
-**src :** Folder untuk kode sumber aplikasi, biasanya berisi component, halaman, util, dan lainnya.
-**.eslintrc.json :** Konfigurasi untuk ESLint, digunakan untuk mendefinisikan aturan pengecekan kode.
-**.gitignore :** File yang memberitahu Git file dan folder mana yang harus diabaikan dari version control.
-**next-env.d.ts :** File TypeScript definisi untuk variabel environment Next.js.
-**next.config.mjs :** File konfigurasi untuk proyek Next.js.
-**package-lock.json :** Berisi informasi versi eksak dari dependency yang diinstal.
-**package.json :** Daftar dependency/npm packages yang dibutuhkan proyek dan konfigurasinya.
-**postcss.config.js :** Konfigurasi untuk PostCSS, digunakan oleh Tailwind CSS.
-**README.md :** Berisi informasi dan dokumentasi tentang proyek.
-**tailwind.config.ts :** File konfigurasi untuk Tailwind CSS.
-**tsconfig.json :** Konfigurasi compiler untuk TypeScript, tentukan opsi kompilasi.
+**node_modules :** Berisi semua dependency/paket npm yang diinstal untuk proyek. </br>
+**public :** Folder untuk menyimpan aset statis seperti gambar yang akan diakses secara publik.</br>
+**src :** Folder untuk kode sumber aplikasi, biasanya berisi component, halaman, util, dan lainnya. </br>
+**.eslintrc.json :** Konfigurasi untuk ESLint, digunakan untuk mendefinisikan aturan pengecekan kode. </br>
+**.gitignore :** File yang memberitahu Git file dan folder mana yang harus diabaikan dari version control. </br>
+**next-env.d.ts :** File TypeScript definisi untuk variabel environment Next.js. </br>
+**next.config.mjs :** File konfigurasi untuk proyek Next.js. </br>
+**package-lock.json :** Berisi informasi versi eksak dari dependency yang diinstal. </br>
+**package.json :** Daftar dependency/npm packages yang dibutuhkan proyek dan konfigurasinya. </br>
+**postcss.config.js :** Konfigurasi untuk PostCSS, digunakan oleh Tailwind CSS. </br>
+**README.md :** Berisi informasi dan dokumentasi tentang proyek. </br>
+**tailwind.config.ts :** File konfigurasi untuk Tailwind CSS. </br>
+**tsconfig.json :** Konfigurasi compiler untuk TypeScript, tentukan opsi kompilasi. </br>
 
 --- 
 
